@@ -1,2 +1,2 @@
 # server
-The server-side backend to ToxiChat
+The backend to ToxiChat
